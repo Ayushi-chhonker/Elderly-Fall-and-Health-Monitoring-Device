@@ -2,7 +2,6 @@
 #include <Adafruit_ADXL345_U.h>
 #include <Adafruit_Sensor.h>
 #include <LiquidCrystal_I2C.h>
-
 #define BUZZER_PIN D5
 #define TEMP_PIN A0
 

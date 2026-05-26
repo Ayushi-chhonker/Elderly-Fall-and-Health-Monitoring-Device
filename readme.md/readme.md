@@ -1,6 +1,6 @@
 # Elderly Fall and Health Monitoring Device
 
-## Overview
+Overview
 This project is an IoT based health monitoring system using ESP8266.
 
 It can:
@@ -10,27 +10,34 @@ It can:
 - Send data through WiFi
 - Trigger buzzer alerts during emergencies
 
-## Components Used
+ Components Used
 - ESP8266
 - ADXL345 Accelerometer
 - LM35 Temperature Sensor
 - I2C LCD Display
 - Buzzer
 
-## Features
+ Features
 - Fall Detection
 - Temperature Monitoring
 - WiFi Monitoring
 - LCD Display
 - Emergency Alert System
 
-## Technologies Used
+ Technologies Used
 - Arduino IDE
 - Embedded C
 - ESP8266 WiFi
 
-## Project Images
-(Add your images here)
 
-## Author
+ Circuit Diagram
+![Circuit Diagram](images/circuit.jpg)
+
+ Prototype
+![Prototype](images/prototype.jpg)
+
+ Project Report
+[Download Report](report/project_report.pdf)
+
+ Author
 Ayushi
