@@ -37,7 +37,7 @@ It can:
 ![Prototype](images/prototype.jpg)
 
  Project Report
-[Download Report](report/project_report.pdf)
+[Download Report](report/ELDERLY FALL.docx)
 
  Author
 Ayushi
